@@ -13,7 +13,7 @@
 
 ## 🚀 Live Deployment
 
-🔗 https://weather-ql0v3lc0m-karansinh1818s-projects.vercel.app/
+🔗 https://yatratours.42web.io/
 ---
 
 ## ✨ Features
@@ -73,58 +73,6 @@
 - Compatibility Testing  
 
 ---
-
-## ⚙️ Installation & Setup
-
-### 📥 1. Clone the Repository
-```bash
-git clone https://github.com/your-username/yatra-tours-travels.git
-cd yatra-tours-travels
-🖥️ 2. Install Requirements
-
-PHP (>= 7.x)
-
-MySQL
-
-Apache Server (XAMPP / WAMP / LAMP recommended)
-
-Web Browser (Chrome, Firefox)
-
-🗄️ 3. Setup Database
-
-Open phpMyAdmin
-
-Create database:
-
-yatra_db
-
-Import SQL file from project folder:
-
-database/yatra_db.sql
-🔧 4. Configure Database Connection
-
-Open file:
-
-connection.php
-
-Update credentials:
-
-$host = "localhost";
-$user = "root";
-$password = "";
-$database = "yatra_db";
-▶️ 5. Run the Project
-
-Move project folder to:
-
-htdocs (XAMPP)
-www (WAMP)
-
-Start Apache & MySQL
-
-Open in browser:
-
-http://localhost/yatra-tours-travels
 
 ## 🚀 Future Improvements
 - Payment Gateway Integration  
